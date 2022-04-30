@@ -1,0 +1,10 @@
+{
+	"Name": "VU built-in mod",
+	"Authors": [ "NoFaTe" ],
+	"Description": "Contains supporting functionality that's built into the VU client.",
+	"Version": "1.0.0",
+	"HasVeniceEXT": true,
+	"Dependencies": {
+		"veniceext": "^1.0.0"
+	}
+}
